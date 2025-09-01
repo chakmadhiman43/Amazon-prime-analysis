@@ -1,7 +1,7 @@
 # Amazon-prime-analysis
 “Data analysis of Amazon Prime TV Shows and Movies using Python”
 
-
+ Overview
 Business Context
 
 In today's competitive streaming industry, platforms like Amazon Prime Video are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available on the platform, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
@@ -51,7 +51,19 @@ IMDb Ratings & Popularity: What are the highest-rated or most popular shows on t
 By analyzing this dataset, businesses, content creators, and data analysts can uncover key trends that influence subscription growth, user engagement, and content investment strategies in the streaming industry.
 
 Main Libraries to be used:
+Pandas – for data cleaning and manipulation
+NumPy – for numerical operations
+Matplotlib & Seaborn – for data visualization
+Google Colab – for interactive analysis
 
-Pandas for data manipulation, aggregation
-Matplotlib and Seaborn for visualization and behavior with respect to the target variable. Use at least 5 different visualizations.
-NumPy for computationally efficient operations
+Visualizations:
+Pie and bar charts for type, ratings, and genres.
+Heatmaps for correlation (e.g., year vs. rating trends).
+Count plot for most dominant contant.
+
+Key Insights:
+Majority of content is movies, with TV shows forming a smaller portion.
+A peak in content addition was observed in 2019–2020.
+Drama is dominant genres across both movies and shows.
+Most content is rated TV-MA and R, indicating a mature audience.
+USA and India produce the most titles on the platform.
