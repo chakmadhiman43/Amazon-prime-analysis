@@ -11,7 +11,7 @@ This data set was created to list all shows available on Amazon Prime streaming,
 
 This dataset has 2 csv files and it is a mix of categorical and numeric values.
 
-Dataset Description
+# Dataset Description
 
 This data set was created to list all shows available on Amazon Prime streaming, and analyze the data to find interesting facts. This dataset has data available in the United States.
 
@@ -43,7 +43,7 @@ character_name: The character name.
 role: ACTOR or DIRECTOR.
 Problem Statement
 
-This dataset was created to analyze all shows available on Amazon Prime Video, allowing us to extract valuable insights such as:
+# This dataset was created to analyze all shows available on Amazon Prime Video, allowing us to extract valuable insights such as:
 
 Content Diversity: What genres and categories dominate the platform?
 Regional Availability: How does content distribution vary across different regions?
@@ -51,18 +51,21 @@ Trends Over Time: How has Amazon Prime’s content library evolved?
 IMDb Ratings & Popularity: What are the highest-rated or most popular shows on the platform?
 By analyzing this dataset, businesses, content creators, and data analysts can uncover key trends that influence subscription growth, user engagement, and content investment strategies in the streaming industry.
 
-Main Libraries to be used:
+#Main Libraries to be used:
+
 Pandas – for data cleaning and manipulation
 NumPy – for numerical operations
 Matplotlib & Seaborn – for data visualization
 Google Colab – for interactive analysis
 
-Visualizations:
+# Visualizations:
+
 Pie and bar charts for type, ratings, and genres.
 Heatmaps for correlation (e.g., year vs. rating trends).
 Count plot for most dominant contant.
 
-Key Insights:
+# Key Insights:
+
 Majority of content is movies, with TV shows forming a smaller portion.
 A peak in content addition was observed in 2019–2020.
 Drama is dominant genres across both movies and shows.
