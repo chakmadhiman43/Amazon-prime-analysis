@@ -51,7 +51,7 @@ And over +124k credits of actors and directors on Amazon Prime titles with 5 col
 - IMDb Ratings & Popularity: What are the highest-rated or most popular shows on the platform?
 By analyzing this dataset, businesses, content creators, and data analysts can uncover key trends that influence subscription growth, user engagement, and content investment strategies in the streaming industry.
 
-#Main Libraries to be used:
+# Main Libraries to be used:
 
 - Pandas – for data cleaning and manipulation
 - NumPy – for numerical operations
