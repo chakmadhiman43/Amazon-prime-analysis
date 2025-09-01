@@ -32,6 +32,8 @@ This dataset contains +9k unique titles on Amazon Prime with 15 columns containi
 - imdb_votes: Votes on IMDB.
 - tmdb_popularity: Popularity on TMDB.
 - tmdb_score: Score on TMDB.
+
+
 And over +124k credits of actors and directors on Amazon Prime titles with 5 columns containing their information:
 
 - person_ID: The person ID on JustWatch.
